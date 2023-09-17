@@ -1,0 +1,13 @@
+description: AXISCONTROL01A module
+github_branch: AXISCONTROL01A
+github_description: AXISCONTROL01A module
+github_repo: AXISCONTROL01
+github_url: https://github.com/mlab-modules/AXISCONTROL01
+homepage: false
+images:
+- doc/img/AXISCONTROL01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: AXISCONTROL01
+updated: '2023-09-17T11:41:39.630873+00:00'
